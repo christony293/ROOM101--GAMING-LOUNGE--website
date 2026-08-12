@@ -1,0 +1,6 @@
+{
+  "name": "Room 101 Playstation",
+  "description": "Room 101 PlayStation — El Nozha's premium 24/7 PS5 gaming lounge & cafe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
